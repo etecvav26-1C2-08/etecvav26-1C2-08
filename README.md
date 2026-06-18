@@ -10,7 +10,22 @@
 
 ---
 
-## Hermanos
+## Protagnistas
 ---
-**etecvav - 1C²**
-<p> presentes, dispostos a aprender-fãs do zahoniel </p>
+# Grupo 08 - Desenvolvimento de Sistemas 1ºC²
+### Etec Vasco Antônio Venchiarutti
+
+Repositório feito para organizar nossos portfólios do curso.
+
+## 👥 Integrantes
+* Kevin Willian -  https://github.com/kevinwillian07
+* Larissa Mascoti - https://github.com/larimascoti-ops
+* Manu Salvador - https://github.com/guukfrjjn
+
+## 📂 Repositórios
+
+### 💻 Portfólio de Programação e Algoritmos
+* **Link:** [Acessar Repositório](https://github.com/etecvav26-1C2-08/portifolio-pa)
+
+### 🌐 Portfólio de Programação Web
+* **Link:** [Acessar Repositório](https://github.com/etecvav26-1C2-08/portifolio-pw)
