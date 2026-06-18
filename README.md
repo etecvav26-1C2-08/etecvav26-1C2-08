@@ -11,4 +11,4 @@
 ## Hermanos
 ---
 **etecvav - 1C²**
-<p> presentes, dispostos a aprender </p>
+<p> presentes, dispostos a aprender-fãs do zahoniel </p>
