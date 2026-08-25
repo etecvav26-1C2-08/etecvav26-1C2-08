@@ -29,3 +29,7 @@ Repositório feito para organizar nossos portfólios do curso.
 
 ### 🌐 Portfólio de Programação Web
 * **Link:** [Acessar Repositório](https://github.com/etecvav26-1C2-08/portifolio-pw)
+---
+<img data-importer="snake" src="https://raw.githubusercontent.com/etecvav26-1C2-08/etecvav26-1C2-08/snake-output/snake.svg" alt="Snake animation" />
+
+###
