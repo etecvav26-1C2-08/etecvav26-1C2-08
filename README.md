@@ -1,7 +1,6 @@
 ---
 # Grupo 08 - Desenvolvimento de Sistemas 1ºC²
 ### Etec Vasco Antônio Venchiarutti
-
 Conta do grupo 8 de desenvolvimento de sistemas do colégio técnico etec vav, dispostos a aprender e melhorar, tanto nossos códigos como nos mesmo.
 
 ##  Integrantes
@@ -10,7 +9,6 @@ Conta do grupo 8 de desenvolvimento de sistemas do colégio técnico etec vav, d
 * Manu Salvador - https://github.com/guukfrjjn
 
 ##  Repositórios
-
 Aqui podem ver as atividades e sistemas que já fizemos em grupo
 
 ### 💻 Portfólio de Programação e Algoritmos
@@ -24,7 +22,6 @@ Aqui podem ver as atividades e sistemas que já fizemos em grupo
 ---
 
 ## Linguagens
-
 Essas são as linguagens que já aprendemos e que conseguimos programar:
 
 <div align="center">
